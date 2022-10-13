@@ -1,0 +1,44 @@
+/*  BODY    */
+/*Imagen del body
+SECCION ANTERIORMENTE EN body .wrap-body*/
+body {
+    background-image: url(../images/bg3.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #fff;
+	position: relative;
+}
+
+/*Ajuste del body*/
+.wrap-body{
+    margin: auto;
+    width: 1000px;
+}
+
+/*Ajust del Nav bar*/
+.row-nav{
+    display:flex;
+    justify-content: space-between;
+}
+
+/*  GRID 6 PRODUCTS */
+
+
+/*  TRAVIS JHONSON SECTION  */
+/*Ajuste tamaño de imágen*/
+.wrap-col{
+    padding: 0px 0px;
+}
+
+/*Esta clase ya se encuentra en la hoja de estilos principal, la modificación se añadió en esta*/
+.box-text{
+	width: 480px;
+}
+
+/*  FOOTER  */
+.row-footer{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}

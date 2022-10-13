@@ -210,7 +210,7 @@ body {
 	letter-spacing: .2px;
 }
 
-body .wrap-body {
+/*body .wrap-body {
 	background-image: url(../images/bg3.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -218,7 +218,7 @@ body .wrap-body {
 	background-size: cover;
 	color: #fff;
 	position: relative;
-}
+}*/
 
 /* body .wrap-body:before {content:"";display: block;height: 100%;position: absolute;top: 0;left: 0;width: 100%;visibility: visible;background-color: rgba(0, 0, 0, .6);} */
 
