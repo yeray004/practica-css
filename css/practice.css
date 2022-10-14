@@ -1,10 +1,16 @@
-/*  BODY    */
+/*  GENERAL    */
 /*Ajuste del contenido*/
 .zerogrid{
     margin: auto;
     width: 1000px;
 }
 
+/*Ajuste del footer*/
+.col-footer-1, .col-footer-2, .col-footer-3 {
+    width: 33%;
+}
+
+/*Index*/
 /*  GRID 6 PRODUCTS */
 /*Ajust del row*/
 .row{
@@ -33,15 +39,29 @@
 /*  TRAVIS JHONSON SECTION  */
 /*Ajuste tamaño de imágen*/
 .wrap-col{
-    padding: 10px 20px;
+    padding: 0px 10px;
+    width: 100%;
 }
 
 /*Esta clase ya se encuentra en la hoja de estilos principal, la modificación se añadió en esta*/
 .box-text{
 	width: 480px;
+    margin: 10px 0px;
 }
 
-/*  FOOTER  */
-.col-footer-1, .col-footer-2, .col-footer-3 {
-    width: 33%;
+/*  BLOG    */
+/*Ajuste de contenido*/
+.flex-box{
+    width: 100%;
+}
+
+/*  CONTACTS    */
+/*Contact form*/
+.col-1-3{
+    width: 33.3%;
+}
+
+
+.contact-form{
+    width: 100%;
 }
