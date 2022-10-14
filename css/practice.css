@@ -10,8 +10,8 @@
     width: 33%;
 }
 
-/*Index*/
-/*  GRID 6 PRODUCTS */
+/*  INDEX   */
+/*  6 productos */
 /*Ajust del row*/
 .row{
     display:flex;
@@ -36,7 +36,7 @@
 }
 
 
-/*  TRAVIS JHONSON SECTION  */
+/*Travis Johnson*/
 /*Ajuste tamaño de imágen*/
 .wrap-col{
     padding: 0px 10px;
@@ -45,7 +45,7 @@
 
 /*Esta clase ya se encuentra en la hoja de estilos principal, la modificación se añadió en esta*/
 .box-text{
-	width: 480px;
+	width: 100%;
     margin: 10px 0px;
 }
 
